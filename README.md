@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Subhrajit Majumder</h1>
 
 <p align="center">
-  <b>🔧 Post Graduate Embedded Systems Developer | Embedded Firmware & Device Driver Development| RTOS Enthusiast</b><br>
+  <b>🔧 Post Graduate Embedded Systems Developer | Embedded Firmware & Device Driver Development | RTOS Enthusiast</b><br>
   <i>Passionate about innovation in hardware-software integration and real-time systems.</i>
 </p>
 
