@@ -94,15 +94,6 @@ This allows me to build, test, and scale embedded systems for real-world environ
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhra20&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=subhra20&theme=tokyonight&hide_border=false" width="47%"/>
-</p>
-
----
-
 ## 📫 Let’s Collaborate
 
 I’m open to:
